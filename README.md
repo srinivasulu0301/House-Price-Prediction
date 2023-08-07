@@ -84,3 +84,4 @@ The data set contains the following features:
 * YrSold: Year Sold (YYYY)
 * SaleType: Type of sale
 * SaleCondition: Condition of sale
+* SalePrice: Price at which it is sold
